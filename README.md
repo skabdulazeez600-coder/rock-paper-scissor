@@ -1,8 +1,7 @@
-<img width="1805" height="924" alt="image" src="https://github.com/user-attachments/assets/f32a8adc-9769-449b-af7b-8af65fd663bc" />
-<img width="1805" height="924" alt="image" src="https://github.com/user-attachments/assets/a8aa2218-93af-4ce6-b01f-9dc78ee5c3ef" />
 Project Title
 Rock-Paper-Scissors Game in C
-Functional Requirements
+
+ >Functional Requirements
 The program must allow the user to play Rock-Paper-Scissors against the computer.
 
 The computer should randomly select between Rock, Paper, and Scissors.
@@ -38,6 +37,14 @@ The computer will generate its choice.
 The result will be displayed.
 
 Continue playing until you choose to quit.
+
+
+<img width="519" height="178" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/e9956925-849f-4be8-a69a-264146696c09" />
+
+
+<img width="663" height="199" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f61d52dd-c2eb-434f-9447-a80f84a379d2" />
+
+
 
 
 
